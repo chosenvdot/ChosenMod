@@ -1,0 +1,11 @@
+﻿{
+	"name":	"Chosen Mod",
+	"id":	"chosenmod1",
+	"version":	"",
+	"supported_game_version":	"",
+	"short_description":	"Chosen Mod v1, will be a balance and MP mod. ",
+	"tags":	["Balance"],
+	"relationships":	[],
+	"game_custom_data":	{
+}
+}
